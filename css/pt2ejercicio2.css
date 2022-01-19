@@ -1,0 +1,27 @@
+div {
+    width: 600px;
+    height: 600px;
+}
+
+.izquierda {
+    float: left;
+}
+
+.uno {
+    width: 400px;
+    height: 100px;
+    background-color: green;
+    float: left;
+}
+
+.dos {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    float: left;
+}
+
+.tres {
+    
+}
+

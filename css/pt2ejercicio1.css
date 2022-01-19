@@ -1,0 +1,100 @@
+div {
+    width: 600px;
+    height: 600px;
+}
+
+.uno {
+    background-color: green;
+    width: 70%;
+    height: 45px;
+    margin: 3px;
+    float: left;
+}
+
+.dos {
+    background-color: greenyellow;
+    width: 28%;
+    height: 45px;
+    margin: 3px;
+    float: right;
+}
+
+.tres {
+    background-color: black;
+    width: 35%;
+    height: 150px;
+    margin: 3px;
+    float: left;
+}
+
+.cuatro {
+    background-color: greenyellow;
+    width: 34%;
+    height: 150px;
+    margin: 3px;
+    float: left;
+}
+
+.cinco {
+    background-color: green;
+    width: 28%;
+    height: 70px;
+    margin: 3px;
+    float:right;
+}
+
+.seis {
+    background-color: greenyellow;
+    width: 28%;
+    height: 70px;
+    margin: 3px;
+    float: right;
+}
+
+.siete {
+    background-color: green;
+    width: 70%;
+    height: 60px;
+    margin: 3px;
+    float: left;
+}
+
+.ocho {
+    background-color: black;
+    width: 28%;
+    height: 125px;
+    margin: 3px;
+    float:right;
+}
+
+.nueve {
+    background-color: greenyellow;
+    width: 70%;
+    height: 60px;
+    margin: 3px;
+    float: left;
+}
+
+.diez {
+    background-color: green;
+    width: 34%;
+    height: 45px;
+    margin: 3px;
+    float: left;
+}
+
+.once {
+    background-color: greenyellow;
+    width: 35%;
+    height: 45px;
+    margin: 3px;
+    float: left;
+}
+
+.doce {
+    background-color: green;
+    width: 28%;
+    height: 45px;
+    margin: 3px;
+    float: right;
+}

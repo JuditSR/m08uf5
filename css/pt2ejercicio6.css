@@ -1,0 +1,16 @@
+.fondo {
+    background-image:url(../img/posterDailyProphet.jpg);
+    width: 830px;
+    height: 830px;
+    background-size: 100% 100%;
+}
+
+.derecha1 {
+    background-image: url(../img/derecha2.png);
+    position:absolute;
+    left: 30px;
+    bottom: 40px;
+    width: 70px;
+    height: 70px;
+}
+
