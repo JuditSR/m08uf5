@@ -1,16 +1,61 @@
-.fondo {
-    background-image:url(../img/posterDailyProphet.jpg);
-    width: 830px;
-    height: 830px;
-    background-size: 100% 100%;
+.cabecera {
+    position: absolute;
+}
+
+.zodiaco {
+    position: absolute;
+    top: 162px;
+}
+
+.sirius {
+    position: absolute;
+    top: 250px;
+    left: 50px;
+}
+
+.sighted {
+    position: absolute;
+    left: 143px;
+    top: 380px;
+}
+
+.foto {
+    position: absolute;
+    top: 520px;
+    left: 200px;
+    height: 400px;
+    width: 450px;
+}
+
+.izquierda1 {
+    position: absolute;
+    top: 380px;
+}
+
+.izquierda2 {
+    position: absolute;
+    top: 537px;
+}
+
+.izquierda3 {
+    position: absolute;
+    top: 802px;
+}
+
+.piedefoto {
+    position: absolute;
+bottom: -105px;
+left: 139px;
 }
 
 .derecha1 {
-    background-image: url(../img/derecha2.png);
-    position:absolute;
-    left: 30px;
-    bottom: 40px;
-    width: 70px;
-    height: 70px;
+    position: absolute;
+    left: 585px;
+    bottom: 139px;
 }
 
+.derecha2 {
+    position: absolute;
+    left: 585px;
+    bottom: -110px;
+}
