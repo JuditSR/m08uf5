@@ -15,8 +15,26 @@ div {
 }
 
 .dos {
-    width: 200px;
+    width: 150px;
     height: 200px;
     background-color: black;
     float: left;
+    padding: 5px;
 }
+
+.tres {
+    width: 250px;
+    height: 200px;
+    float:left;
+    background-color: green;
+    padding: 5px;
+}
+
+.cuatro {
+    width: 100px;
+    height: 100px;
+    float: left;
+    background-color: green;
+}
+
+.cinco {}
