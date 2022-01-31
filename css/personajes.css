@@ -1,0 +1,16 @@
+.padding {
+    padding-right: 400px;
+    padding-left: 50px;
+}
+
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+#foto1 {
+    width: 215px;
+    height: 200px;
+    position: absolute;
+    right: 120px;
+    top: 180px;    
+}

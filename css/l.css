@@ -1,9 +1,3 @@
-.principal1 {
-    width: 50px;
-    height: 50px;
-    position: absolute;
-}
-
 .padding {
     padding-right: 400px;
     padding-left: 50px;
@@ -22,10 +16,11 @@ body {
     top: 180px;
 }
 
-#box {
-  background-color: lightgrey;
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
+
+.card {
+    background-color: red;
+    position: absolute;
+    right: 120px;
+    top: 350px;
 }
+
