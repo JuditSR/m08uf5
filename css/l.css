@@ -16,11 +16,18 @@ body {
     top: 180px;
 }
 
+h2 {
+    color: cyan;
+}
+
+h3 {
+    color: cyan;
+}
 
 .card {
-    background-color: red;
-    position: absolute;
-    right: 120px;
-    top: 350px;
+position: absolute;
+right: 120px;
+top: 385px;
+width: 215px;
 }
 
