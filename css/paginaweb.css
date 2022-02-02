@@ -5,8 +5,8 @@
 }
 
 .padding {
-    padding-right: 400px;
-    padding-left: 50px;
+    padding-right: 370px;
+    padding-left: 150px;
 }
 
 body {
@@ -22,4 +22,14 @@ body {
     top: 180px;
 }
 
+#titulo {
+    width: 1200px;
+    height: 150px;
+    padding-left: 500px;
+}
+
+.carousel {
+    width: 200px;
+    height: 150px;
+}
 

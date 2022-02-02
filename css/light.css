@@ -31,8 +31,9 @@ top: 385px;
 width: 215px;
 }
 
-table {
+.table {
     position: absolute;
     left: 200px;
     top: 500px;
 }
+
