@@ -6,6 +6,8 @@
 body {
     background-color: rgb(41, 41, 41);
     color: white;
+    font-family: 'Rubik', sans-serif;
+    font-size: 19px;
 }
 
 #foto1 {
@@ -29,5 +31,22 @@ position: absolute;
 right: 120px;
 top: 385px;
 width: 215px;
+background-color: rgb(122, 214, 214);
 }
 
+.table {
+    position: absolute;
+    left: 200px;
+    top: 500px;
+    
+}
+
+.container {
+    position: absolute;
+    right: 500px;
+    bottom: 300px;
+}
+
+td {
+    text-align: center;
+}
