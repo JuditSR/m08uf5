@@ -5,13 +5,21 @@
 }
 
 .padding {
-    padding-right: 370px;
+    padding-right: 250px;
     padding-left: 150px;
 }
 
 body {
     background-color: rgb(41, 41, 41);
     color: white;
+    font-family: 'Rubik', sans-serif;
+    font-size: 19px;
+
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(255, 0, 0);
 }
 
 #foto1 {
@@ -29,7 +37,12 @@ body {
 }
 
 .carousel {
-    width: 200px;
-    height: 150px;
+    width: 500px;
+    height: 350px;
 }
+
+.container {
+    padding-left: 300px;
+}
+
 
